@@ -34,38 +34,15 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+<img src="https://github.com/github-pratik/CodePath-week5-trippin-on-Cats/blob/main/Project%204.gif" alt="Demo Walkthrough" width="400">
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+1. Calling API
+2. Learning Async and await
+3. Getting futher detail of ban and displayed 
 
-## Setup
-
-1. Clone this repository
-2. Run `npm install` to install dependencies
-3. Create a `.env` file in the root directory based on `.env.example`
-4. Get your API key from [The Cat API](https://thecatapi.com/) and add it to the `.env` file
-5. Run `npm run dev` to start the development server
-
-## Environment Variables
-
-This app requires an API key from The Cat API. You need to create a `.env` file with the following variable:
-
-```
-VITE_CAT_API_KEY=your_api_key_here
-```
-
-Replace `your_api_key_here` with your actual API key from The Cat API.
 
 ## License
 
