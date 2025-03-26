@@ -30,8 +30,6 @@ The following **additional** features are implemented:
 * [x] Animated button hover effects for better user interaction
 * [x] Thumbnail images in the seen cats history for quick visual recognition
 
-* [ ] List anything else that you added to improve the site's functionality!
-
 ## Video Walkthrough
 
 <img src="https://github.com/github-pratik/CodePath-week5-trippin-on-Cats/blob/main/Project%204.gif" alt="Demo Walkthrough" width="400">
